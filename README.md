@@ -8,6 +8,6 @@ Download the .ino file along with the libraries. Put the downloaded libraries wh
 ### Version two 
 used for multiple devices where the Pi pings each device. Change the ID for each device programmed.
 
-###Version one 
+### Version one 
 used for a single device, it will contantly transmit data to the Pi.
 
