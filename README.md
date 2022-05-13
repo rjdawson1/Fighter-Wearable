@@ -6,9 +6,13 @@ Wearable device to monitor the vitals of first responders in the field
 Download the .ino file along with the libraries.zip. Extract the .zip and move the downloaded libraries where your arduino libraries are located.
 Then run .ino of which version you prefer.
 
+### Components needed
+*2 LoRa Sx1278 RA-02 chips: https://www.amazon.com/SX1278-Module-Wireless-Spectrum-Transmission/dp/B07KDQWKNQ
+*Sparkfun Zed F9R: https://www.sparkfun.com/products/16344
+*Sparkfun Max30101 Pulse OX: https://www.sparkfun.com/products/15219
+*AD5933 PMOD IA: https://projects.digilentinc.com/products/pmod-ia
 
 ### To Get the Receiver Working
-You will need a Raspberry PI 4 with two LoRa sx1278 RA-02 Chips.
 Please refer to https://github.com/andiconi/FighterMonitor.
 
 ### Version One 
