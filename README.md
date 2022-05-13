@@ -39,18 +39,18 @@ SDA --> SDA <br />
 GND --> GND <br />
 3.3V --> VCC <br />
 
-RASPBERRY PI 4 --> LoRa Sx1278 RA-02 
-3.3V --> 3.3V 
-GND --> GND
-GPIO10 --> MOSI
-GPIO9 --> MISO 
-GPIO11 --> SCK
-GPIO8 --> NSS
-GPIO4 --> DIO0
-GPIO22 --> RST
-GPIO17 --> DIO1
-GPIO18 --> DIO2
-GPIO27 --> DIO3
+RASPBERRY PI 4 --> LoRa Sx1278 RA-02  <br />
+3.3V --> 3.3V <br />
+GND --> GND <br />
+GPIO10 --> MOSI <br />
+GPIO9 --> MISO  <br />
+GPIO11 --> SCK <br />
+GPIO8 --> NSS <br />
+GPIO4 --> DIO0 <br />
+GPIO22 --> RST <br />
+GPIO17 --> DIO1 <br />
+GPIO18 --> DIO2 <br />
+GPIO27 --> DIO3 <br />
 
 
 ### To Get the Receiver Working
