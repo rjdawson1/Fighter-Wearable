@@ -1,5 +1,5 @@
 # Fighter-Wearable
-Wearable device to monitor vitals of first responders in the field
+Wearable device to monitor the vitals of first responders in the field
 
 ## How to use:
 
