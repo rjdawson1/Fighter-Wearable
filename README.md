@@ -11,6 +11,7 @@ Then run .ino of which version you prefer.
 * Sparkfun Zed F9R: https://www.sparkfun.com/products/16344  <br />
 * Sparkfun Max30101 Pulse OX: https://www.sparkfun.com/products/15219  <br />
 * AD5933 PMOD IA: https://projects.digilentinc.com/products/pmod-ia  <br />
+* ESP32 Huzzah: https://www.adafruit.com/product/3405  <br />
 
 ### To Get the Receiver Working
 Please refer to https://github.com/andiconi/FighterMonitor.
@@ -23,6 +24,7 @@ used for multiple devices where the Pi pings each ID (device). Change the ID for
 
 ### Wiring
 We used an ESP32 Huzzah. <br />
+
 ESP32 --> LoRa Sx1278 RA-02  <br />
 GND --> GND <br />
 3.3V --> 3.3V  <br />
