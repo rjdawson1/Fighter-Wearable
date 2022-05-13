@@ -18,26 +18,26 @@ MOSI --> MOSI <br />
 MISO --> MISO <br />
 SCK --> SCK <br />
 
-ESP32 --> GNSS
-GND --> GND 
-3.3V --> 3.3V 
-SDA --> SDA 
-SCL --> SCL
+ESP32 --> GNSS <br />
+GND --> GND <br />
+3.3V --> 3.3V  <br />
+SDA --> SDA <br />
+SCL --> SCL <br />
 
-ESP32 --> MAX30101 & MAX32664 sparkfun breakout
-MFIO --> GPIO33
-RST --> GPIO21 
-SCL --> SCL 
-SDA --> SDA 
-3.3V --> 3.3V
-GND --> GND
+ESP32 --> MAX30101 & MAX32664 sparkfun breakout <br />
+MFIO --> GPIO33 <br />
+RST --> GPIO21  <br />
+SCL --> SCL <br />
+SDA --> SDA  <br />
+3.3V --> 3.3V <br />
+GND --> GND <br />
 
-ESP32 --> AD5933 PMMOD IA 
-GND --> SEL
-SCL --> SCL
-SDA --> SDA
-GND --> GND
-3.3V --> VCC
+ESP32 --> AD5933 PMMOD IA  <br />
+GND --> SEL <br />
+SCL --> SCL <br />
+SDA --> SDA <br />
+GND --> GND <br />
+3.3V --> VCC <br />
 
 ### To Get the Receiver Working
 You will need a Raspberry PI 4 with two LoRa sx1278 RA-02 Chips.
