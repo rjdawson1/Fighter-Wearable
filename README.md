@@ -7,10 +7,10 @@ Download the .ino file along with the libraries.zip. Extract the .zip and move t
 Then run .ino of which version you prefer.
 
 ### Components needed
-*2 LoRa Sx1278 RA-02 chips: https://www.amazon.com/SX1278-Module-Wireless-Spectrum-Transmission/dp/B07KDQWKNQ  <br />
-*Sparkfun Zed F9R: https://www.sparkfun.com/products/16344  <br />
-*Sparkfun Max30101 Pulse OX: https://www.sparkfun.com/products/15219  <br />
-*AD5933 PMOD IA: https://projects.digilentinc.com/products/pmod-ia  <br />
+* 2 LoRa Sx1278 RA-02 chips: https://www.amazon.com/SX1278-Module-Wireless-Spectrum-Transmission/dp/B07KDQWKNQ  <br />
+* Sparkfun Zed F9R: https://www.sparkfun.com/products/16344  <br />
+* Sparkfun Max30101 Pulse OX: https://www.sparkfun.com/products/15219  <br />
+* AD5933 PMOD IA: https://projects.digilentinc.com/products/pmod-ia  <br />
 
 ### To Get the Receiver Working
 Please refer to https://github.com/andiconi/FighterMonitor.
