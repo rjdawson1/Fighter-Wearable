@@ -8,7 +8,7 @@ Then run .ino of which version you prefer.
 
 ### Wiring
 We used an ESP32 Huzzah. <br />
-ESP32 --> LoRa <br />
+ESP32 --> LoRa Sx1278 RA-02  <br />
 GND --> GND <br />
 3.3V --> 3.3V  <br />
 RST --> GPIO15 <br />
@@ -38,6 +38,20 @@ SCL --> SCL <br />
 SDA --> SDA <br />
 GND --> GND <br />
 3.3V --> VCC <br />
+
+RASPBERRY PI 4 --> LoRa Sx1278 RA-02 
+3.3V --> 3.3V 
+GND --> GND
+GPIO10 --> MOSI
+GPIO9 --> MISO 
+GPIO11 --> SCK
+GPIO8 --> NSS
+GPIO4 --> DIO0
+GPIO22 --> RST
+GPIO17 --> DIO1
+GPIO18 --> DIO2
+GPIO27 --> DIO3
+
 
 ### To Get the Receiver Working
 You will need a Raspberry PI 4 with two LoRa sx1278 RA-02 Chips.
