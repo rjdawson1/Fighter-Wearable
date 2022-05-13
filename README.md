@@ -6,6 +6,17 @@ Wearable device to monitor the vitals of first responders in the field
 Download the .ino file along with the libraries.zip. Extract the .zip and move the downloaded libraries where your arduino libraries are located.
 Then run .ino of which version you prefer.
 
+
+### To Get the Receiver Working
+You will need a Raspberry PI 4 with two LoRa sx1278 RA-02 Chips.
+Please refer to https://github.com/andiconi/FighterMonitor.
+
+### Version One 
+used for a single device, it will contantly transmit data to the Pi.
+
+### Version Two 
+used for multiple devices where the Pi pings each device. Change the ID for each device programmed.
+
 ### Wiring
 We used an ESP32 Huzzah. <br />
 ESP32 --> LoRa Sx1278 RA-02  <br />
@@ -51,16 +62,4 @@ GPIO22 --> RST <br />
 GPIO17 --> DIO1 <br />
 GPIO18 --> DIO2 <br />
 GPIO27 --> DIO3 <br />
-
-
-### To Get the Receiver Working
-You will need a Raspberry PI 4 with two LoRa sx1278 RA-02 Chips.
-Please refer to https://github.com/andiconi/FighterMonitor.
-
-### Version One 
-used for a single device, it will contantly transmit data to the Pi.
-
-### Version Two 
-used for multiple devices where the Pi pings each device. Change the ID for each device programmed.
-
 
