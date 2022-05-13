@@ -7,6 +7,7 @@ Download the .ino file along with the libraries.zip. Extract the .zip and move t
 Then run .ino of which version you prefer.
 
 ### To Get the Receiver Working
+You will need a Raspberry PI 4 with two LoRa sx1278 RA-02 Chips.
 Please refer to https://github.com/andiconi/FighterMonitor.
 
 ### Version One 
