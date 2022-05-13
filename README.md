@@ -7,16 +7,16 @@ Download the .ino file along with the libraries.zip. Extract the .zip and move t
 Then run .ino of which version you prefer.
 
 ### Wiring
-We used an ESP32 Huzzah. 
-ESP32 --> LoRa
-GND --> GND
-3.3V --> 3.3V 
-RST --> GPIO15 
-DIO0 --> GPIO32
-NSS --> GPIO14
-MOSI --> MOSI
-MISO --> MISO 
-SCK --> SCK
+We used an ESP32 Huzzah. <br />
+ESP32 --> LoRa <br />
+GND --> GND <br />
+3.3V --> 3.3V  <br />
+RST --> GPIO15 <br />
+DIO0 --> GPIO32 <br />
+NSS --> GPIO14 <br />
+MOSI --> MOSI <br />
+MISO --> MISO <br />
+SCK --> SCK <br />
 
 ESP32 --> GNSS
 GND --> GND 
