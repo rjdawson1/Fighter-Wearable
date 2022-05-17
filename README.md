@@ -25,7 +25,7 @@ used for a single device, it will contantly transmit data to the Pi.
 used for multiple devices where the Pi pings each ID (device). Change the ID for each device programmed.
 
 ### Wiring
-We used an ESP32 Huzzah. <br />
+We used an ESP32 Huzzah for dual core multi-tasking. <b> You must use an arduino capable of doing this. <b> <br />
 
 ESP32 --> LoRa Sx1278 RA-02  <br />
 GND --> GND <br />
