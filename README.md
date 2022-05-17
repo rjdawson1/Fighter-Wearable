@@ -19,10 +19,10 @@ Then run .ino of which version you prefer.
 Please refer to https://github.com/andiconi/FighterMonitor.
 
 ### Version One 
-used for a single device, it will contantly transmit data to the Pi.
+Used for a single device, it will contantly transmit data to the Pi.
 
 ### Version Two 
-used for multiple devices where the Pi pings each ID (device). Change the ID for each device programmed.
+Used for multiple devices where the Pi pings each ID (device). Change the ID for each device programmed.
 
 ### Wiring
 We used an ESP32 Huzzah for dual core multi-tasking. <b> You must use an arduino capable of doing this. <b> <br />
