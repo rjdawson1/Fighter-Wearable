@@ -22,7 +22,7 @@ Please refer to https://github.com/andiconi/FighterMonitor.
 Used for a single device, it will contantly transmit data to the Pi.
 
 ### Version Two 
-Used for multiple devices where the Pi pings each ID (device). Change the ID for each device programmed.
+Used for multiple devices the Pi pings each ID (device). When pinged the device transmits data to the Pi. Change the ID for each device programmed.
 
 ### Wiring
 We used an ESP32 Huzzah for dual core multi-tasking. <b> You must use an arduino capable of doing this. <b> <br />
